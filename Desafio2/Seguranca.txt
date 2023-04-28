@@ -1,0 +1,28 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: 28/04/2023
+Empresa: Abstergo Industries 
+esponsável: Ever Ferreira
+
+Introdução
+Este relatório apresenta o processo de implementação de medidas de segurança em conjunto com serviços da AWS na empresa Abstergo Industries, realizado por Ana Silva. O objetivo do projeto foi elencar 3 medidas de segurança para aumentar a segurança da empresa.
+
+Descrição do Projeto
+O projeto de implementação de medidas de segurança foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as medidas implementadas:
+
+Medida 1: Serviço AWS Security Hub - O objetivo dessa medida foi implementar o serviço AWS Security Hub, que centraliza e automatiza a verificação da segurança dos recursos da AWS utilizados pela empresa, identificando potenciais ameaças em tempo real.
+
+Medida 2: Serviço AWS IAM - O objetivo dessa medida foi implementar o serviço AWS IAM (Identity and Access Management), que permite a criação e gerenciamento de usuários e permissões de acesso aos recursos da AWS utilizados pela empresa, garantindo a segurança e controle de acesso aos recursos.
+
+Medida 3: Serviço AWS WAF - O objetivo dessa medida foi implementar o serviço AWS WAF (Web Application Firewall), que protege as aplicações web da empresa contra ataques comuns, como SQL injection e cross-site scripting, por exemplo.
+
+Conclusão
+A implementação dessas medidas de segurança em conjunto com serviços da AWS na empresa Abstergo Industries tem como esperado o aumento da segurança e redução de riscos cibernéticos, garantindo a proteção dos recursos e dados da empresa. Recomenda-se a continuidade da utilização dessas ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais a segurança dos processos da empresa.
+
+Anexos
+
+Manual de utilização do serviço AWS Security Hub
+Manual de utilização do serviço AWS IAM
+Manual de utilização do serviço AWS WAF
+
+Assinatura do Responsável pelo Projeto:
+Ever Ferreira
