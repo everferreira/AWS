@@ -1,0 +1,30 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+Data: 28/04/2023
+Empresa: Farmacia industria
+Responsável: Ever Ferreira
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Farmacia industria, realizado por Ever Ferreira. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1: - Amazon S3 (Simple Storage Service) - Armazenamento de Dados
+    Foco da ferramenta: Armazenamento seguro, durável e escalável de dados na nuvem.
+    Descrição de caso de uso: A empresa pode utilizar o Amazon S3 para armazenar dados críticos, como registros de pacientes e informações regulatórias, reduzindo os custos com a manutenção de servidores físicos e melhorando a segurança e o acesso aos dados.
+
+Etapa 2: - Amazon EC2 (Elastic Compute Cloud) - Computação na Nuvem
+    Foco da ferramenta: Computação escalável e flexível na nuvem.
+    Descrição de caso de uso: A empresa pode utilizar o Amazon EC2 para executar aplicações farmacêuticas críticas e processamento de dados em grande escala, reduzindo os custos com a manutenção de servidores físicos e aumentando a capacidade de processamento de dados.
+
+Etapa 3: - AWS Lambda - Computação sem Servidor
+    Foco da ferramenta: Computação sem servidor, escalável e de baixo custo.
+    Descrição de caso de uso: A empresa pode utilizar o AWS Lambda para executar tarefas computacionais com baixo custo, como processamento de imagem e análise de dados, sem a necessidade de provisionar e gerenciar servidores físicos, reduzindo os custos operacionais e aumentando a eficiência do processamento de dados.
+
+Conclusão
+A implementação de ferramentas na empresa Farmacia industria tem como esperado Esses serviços AWS oferecem soluções de baixo custo, seguras e escaláveis para empresas farmacêuticas, ajudando a aumentar a eficiência e a produtividade. Além disso, essas soluções permitem que a empresa foque em suas atividades principais, sem se preocupar com a manutenção de infraestrutura de TI, o que resulta em uma redução significativa de custos e melhoria na qualidade do serviço prestado., o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+
+
+Assinatura do Responsável pelo Projeto:
+
+Ever Ferreira
